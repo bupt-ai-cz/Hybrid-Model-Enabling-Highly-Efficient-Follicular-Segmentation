@@ -34,9 +34,9 @@ Workshop version:
 }
 ```
 
-## Author
-Siyan Tao, Minzhen Li:
-- email: xxx@bupt.edu.cn
+## Authors
+Siyan Tao, Minzhen Li, Chuang Zhu:
+- email: xxx@bupt.edu.cn；1421887087@qq.com；czhu@bupt.edu.cn
 - wechat: xxx
 
 If you have any questions, you can contact me directly.

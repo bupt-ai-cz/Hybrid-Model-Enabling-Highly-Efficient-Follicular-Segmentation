@@ -11,7 +11,7 @@ Results: Using this method, up to 93% WSI segmentation time was reduced by skipp
 Conclusion: The proposed hybrid method might significantly improve previous solutions and achieve the superior performance of efficiency and accuracy.
 
 ### Architecture Overview
-![](figs/fig_overview.png)
+![](patch-examples/patch-examples.png)
 
 
 
@@ -33,6 +33,8 @@ Workshop version:
   organization={Springer}
 }
 ```
+## Dataset
+<img src="/examples.jpg" width="900px"/>
 
 ## Authors
 Siyan Tao, Minzhen Li, Chuang Zhu:

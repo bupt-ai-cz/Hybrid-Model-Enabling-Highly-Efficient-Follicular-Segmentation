@@ -18,7 +18,7 @@ Extended journal version: coming soon!
 ```
 
 
-Workshop version:
+Workshop version: [AAAI_Workshop](https://arxiv.org/pdf/1902.05431.pdf)
 ```
 @inproceedings{tao2019highly,
   title={Highly efficient follicular segmentation in thyroid cytopathological whole slide image},
@@ -32,7 +32,7 @@ Workshop version:
 ## Dataset
 <img src="/patch-examples/patch-examples.png" width="900px"/>
 
-Please download the patch dataset through 链接: https://pan.baidu.com/s/1JcOXFklZKLOcHEexvtFLjQ  
+You can download the patch dataset through 链接: https://pan.baidu.com/s/1JcOXFklZKLOcHEexvtFLjQ  
 
 To obtain the password pls email me: czhu@bupt.edu.cn 
 

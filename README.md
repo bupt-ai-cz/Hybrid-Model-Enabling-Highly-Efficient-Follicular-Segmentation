@@ -56,8 +56,14 @@ Note:
 - Segmentation model training: "lvpao"; (of course, "background" and "jiaozhi" can also be added into training, and they are treated as "non-follicular" areas)
 - Models can be trained in several stages or the whole hybrid model can be trained in an end-to-end manner;
 - Some very tiny follicular areas in "lvpao" are not labelled;
-- You can only select part of the data to use according to actual needs;
+- You may only select part of the data to use according to actual needs;
 - You can use python or matlab opening the "label" file to see the follicular annotations, or use the "label_transfered" file directly.
+
+## Results and applications
+<img src="/patch-examples/figure8.png" width="800px"/>
+
+1. Performing our algorithm first, then the doctors just check the obtained follicular regions. Through just checking these areas while skipping most of the irrelevant part, the doctors can  make diagnose quickly, and thus the diagnosis time is reduced. We called this scenario the semi-automatic diagnosis mode consists of two phases: automatic follicular region extraction and manual follicular checking;
+2. Performing our algorithm first, then conduct automatic thyroid malignancy prediction based on the obtained follicular regions by using weakly supervised method, such as multiple instance learning. In this scenario, our work is still useful because many irrelevant areas are discarded prior to the thyroid malignancy prediction, and thus the diagnosing performance is boosted.
 
 ## Authors
 Siyan Tao, Minzhen Li, Chuang Zhu:

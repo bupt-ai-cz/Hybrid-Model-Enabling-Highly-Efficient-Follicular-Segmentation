@@ -44,12 +44,20 @@ Workshop version: [AAAI_Workshop](https://arxiv.org/pdf/1902.05431.pdf)
 }
 ```
 ## Dataset
-<img src="/patch-examples/patch-examples.png" width="500px"/>
+<img src="/patch-examples/patch-examples.png" width="800px"/>
 
 You can download the patch dataset (about 10G) through 链接: https://pan.baidu.com/s/1JcOXFklZKLOcHEexvtFLjQ  
 
 To obtain the password pls email me: czhu@bupt.edu.cn 
 
+Note:
+- The "patch dataset" is desensitized and can only be used for research；
+- Classification model training: "background"、"jiaozhi"、"lvpao";
+- Segmentation model training: "lvpao"; (of course, "background" and "jiaozhi" can also be added into training, and they are treated as "non-follicular" areas)
+- Models can be trained in several stages or the whole hybrid model can be trained in an end-to-end manner;
+- Some very tiny follicular areas in "lvpao" are not labelled;
+- You can only select part of the data to use according to actual needs;
+- You can use python or matlab opening the "label" file to see the follicular annotations, or use the "label_transfered" file directly.
 
 ## Authors
 Siyan Tao, Minzhen Li, Chuang Zhu:

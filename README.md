@@ -17,12 +17,13 @@ A total of 96 cell samples from July 2017 to July 2018 in one hospital in Beijin
 
 ### Architecture Overview
 <img src="/patch-examples/figure2.png" width="800px"/>
+
 1. Most of the colloid areas and background areas are recognized and discarded by the classification branch;
 2. The patches that contain follicular are further processed by the segmentation branch.
 
 ### Highlights
-1. Fast segmentation of follicular areas
-2. Hybrid architecture by integrating classification branch and segmeatation branch
+1. Fast segmentation of follicular areas;
+2. Hybrid architecture by integrating classification branch and segmeatation branch.
 
 ## Citation
 Please cite this paper in your publications if it helps your research:

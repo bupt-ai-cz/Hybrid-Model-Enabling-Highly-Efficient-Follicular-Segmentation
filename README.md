@@ -32,7 +32,7 @@ Extended journal version: coming soon!
 ```
 
 
-Workshop version: [AAAI_Workshop](https://arxiv.org/pdf/1902.05431.pdf)
+Workshop version: [AAAI_Workshop](https://arxiv.org/abs/1902.05431)
 ```
 @inproceedings{tao2019highly,
   title={Highly efficient follicular segmentation in thyroid cytopathological whole slide image},
@@ -70,4 +70,4 @@ Siyan Tao, Minzhen Li, Chuang Zhu:
 - email: tao_siyan@163.com；1421887087@qq.com；czhu@bupt.edu.cn
 - wechat: lmz__120189
 
-If you have any questions, you can contact me directly.
+If you have any questions, you can contact us directly.

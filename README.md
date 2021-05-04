@@ -52,7 +52,7 @@ Workshop version: [pdf of AAAI_Workshop](https://arxiv.org/abs/1902.05431)
 ## Dataset
 <img src="/patch-examples/patch-examples.png" width="800px"/>
 
-You can download the patch dataset (about 10G) through 链接: https://pan.baidu.com/s/1JcOXFklZKLOcHEexvtFLjQ  
+You can download the patch dataset (about 10G) through address: [baiduwangpan](https://pan.baidu.com/s/1JcOXFklZKLOcHEexvtFLjQ)  
 
 To obtain the password pls email me: czhu@bupt.edu.cn 
 

@@ -25,30 +25,6 @@ A total of 96 cell samples from July 2017 to July 2018 in one hospital in Beijin
 1. Fast segmentation of follicular areas;
 2. Hybrid architecture by integrating classification branch and segmeatation branch.
 
-## Citation
-Please cite this paper in your publications if it helps your research: [pdf of Intelligent Medicine](https://www.sciencedirect.com/science/article/pii/S2667102621000036)
-```
-@article{zhu2021hybrid,
-  title={Hybrid model enabling highly efficient follicular segmentation in thyroid cytopathological whole slide image},
-  author={Zhu, Chuang and Tao, Siyan and Chen, Huang and Li, Minzhen and Wang, Ying and Liu, Jun and Jin, Mulan},
-  journal={Intelligent Medicine},
-  year={2021},
-  publisher={Elsevier}
-}
-```
-
-
-Workshop version: [pdf of AAAI_Workshop](https://arxiv.org/abs/1902.05431)
-```
-@inproceedings{tao2019highly,
-  title={Highly efficient follicular segmentation in thyroid cytopathological whole slide image},
-  author={Tao, Siyan and Guo, Yao and Zhu, Chuang and Chen, Huang and Zhang, Yue and Yang, Jie and Liu, Jun},
-  booktitle={International Workshop on Health Intelligence},
-  pages={149--157},
-  year={2019},
-  organization={Springer}
-}
-```
 ## Dataset
 <img src="/patch-examples/patch-examples.png" width="800px"/>
 
@@ -74,6 +50,31 @@ Note:
 
 1. Performing our algorithm first, then the doctors just check the obtained follicular regions. Through just checking these areas while skipping most of the irrelevant part, the doctors can  make diagnose quickly, and thus the diagnosis time is reduced. We called this scenario the semi-automatic diagnosis mode consists of two phases: automatic follicular region extraction and manual follicular checking;
 2. Performing our algorithm first, then conduct automatic thyroid malignancy prediction based on the obtained follicular regions by using weakly supervised method, such as multiple instance learning. In this scenario, our work is still useful because many irrelevant areas are discarded prior to the thyroid malignancy prediction, and thus the diagnosing performance is boosted.
+
+## Citation
+Please cite these papers in your publications if it helps your research: [pdf of Intelligent Medicine](https://www.sciencedirect.com/science/article/pii/S2667102621000036)
+```
+@article{zhu2021hybrid,
+  title={Hybrid model enabling highly efficient follicular segmentation in thyroid cytopathological whole slide image},
+  author={Zhu, Chuang and Tao, Siyan and Chen, Huang and Li, Minzhen and Wang, Ying and Liu, Jun and Jin, Mulan},
+  journal={Intelligent Medicine},
+  year={2021},
+  publisher={Elsevier}
+}
+```
+
+
+Workshop version: [pdf of AAAI_Workshop](https://arxiv.org/abs/1902.05431)
+```
+@inproceedings{tao2019highly,
+  title={Highly efficient follicular segmentation in thyroid cytopathological whole slide image},
+  author={Tao, Siyan and Guo, Yao and Zhu, Chuang and Chen, Huang and Zhang, Yue and Yang, Jie and Liu, Jun},
+  booktitle={International Workshop on Health Intelligence},
+  pages={149--157},
+  year={2019},
+  organization={Springer}
+}
+```
 
 ## Authors
 Siyan Tao, Minzhen Li, Chuang Zhu:

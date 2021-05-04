@@ -26,7 +26,7 @@ A total of 96 cell samples from July 2017 to July 2018 in one hospital in Beijin
 2. Hybrid architecture by integrating classification branch and segmeatation branch.
 
 ## Citation
-Please cite this paper in your publications if it helps your research: [Intelligent Medicine](https://www.sciencedirect.com/science/article/pii/S2667102621000036)
+Please cite this paper in your publications if it helps your research: [pdf of Intelligent Medicine](https://www.sciencedirect.com/science/article/pii/S2667102621000036)
 ```
 @article{zhu2021hybrid,
   title={Hybrid model enabling highly efficient follicular segmentation in thyroid cytopathological whole slide image},
@@ -38,7 +38,7 @@ Please cite this paper in your publications if it helps your research: [Intellig
 ```
 
 
-Workshop version: [AAAI_Workshop](https://arxiv.org/abs/1902.05431)
+Workshop version: [pdf of AAAI_Workshop](https://arxiv.org/abs/1902.05431)
 ```
 @inproceedings{tao2019highly,
   title={Highly efficient follicular segmentation in thyroid cytopathological whole slide image},

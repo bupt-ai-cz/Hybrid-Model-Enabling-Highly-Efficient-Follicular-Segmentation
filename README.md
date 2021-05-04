@@ -56,6 +56,10 @@ You can download the patch dataset (about 10G) through address: [baiduwangpan](h
 
 To obtain the password pls email me: czhu@bupt.edu.cn 
 
+Or 
+
+Download the dataset through: [Google-Cloud-Storage](https://drive.google.com/file/d/1t1W7tpKscqLxPApqH3JSP_zsljLHWKxQ/view?usp=sharing)
+
 Note:
 - The "patch dataset" is desensitized and can only be used for research；
 - Classification model training: "background"、"jiaozhi"、"lvpao";

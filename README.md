@@ -1,4 +1,4 @@
-# Hybrid-Model-Enabling-Highly-Efficient-Follicular-Segmentation
+# Hybrid-Model-Enabling-Highly-Efficient-Follicular-Segmentation [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Codes%20and%20Data%20for%20Our%20Paper:%20"Highly%20efficient%20follicular%20segmentation%20in%20thyroid%20cytopathological%20whole%20slide%20image"%20&url=https://github.com/bupt-ai-cz/Hybrid-Model-Enabling-Highly-Efficient-Follicular-Segmentation)
 ## Introduction
 
 ### Abstract

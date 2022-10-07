@@ -30,7 +30,7 @@ A total of 96 cell samples from July 2017 to July 2018 in one hospital in Beijin
 
 You can download the patch dataset (about 10G) through address: [baiduwangpan](https://pan.baidu.com/s/1N8cid1wvvrjgHMR6aLQhRg)  code: c7tm
 
-To obtain the password pls email me: czhu@bupt.edu.cn 
+If you have problems pls email me: czhu@bupt.edu.cn 
 
 Or 
 
